@@ -14,8 +14,8 @@ import Foundation
  3- Type your Interstitial AdMob ID between the quotation mark of the variable ADMOB_INTERSTITIAL_ID */
 
 let ENABLE_ADMOB = false
-let ADMOB_BANNER_ID = "ca-app-pub-8964973200415729/3177031878"
-let ADMOB_INTERSTITIAL_ID = "ca-app-pub-8964973200415729/1412701675"
+let ADMOB_BANNER_ID = ""
+let ADMOB_INTERSTITIAL_ID = ""
 //=========================================================================================
 
 /* Sound Settings */
