@@ -78,7 +78,7 @@ class EditController: UIViewController {
     let xBtn: UIButton = {
         let btn = UIButton()
             btn.setTitleColor(.white, for: .normal)
-            btn.setTitle("X", for: .normal)
+            btn.setTitle("BACK", for: .normal)
             btn.titleLabel?.font = UIFont(name: FONT_NAME, size: 45)
             btn.addTarget(self, action: #selector(xBtnLogic), for: .touchUpInside)
         return btn
